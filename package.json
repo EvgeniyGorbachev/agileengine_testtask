@@ -1,0 +1,9 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "author": "",
+  "dependencies": {
+    "jsdom": "^16.2.2",
+    "lodash": "^4.17.15"
+  }
+}
